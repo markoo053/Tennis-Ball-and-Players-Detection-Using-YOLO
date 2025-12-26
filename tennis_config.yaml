@@ -1,0 +1,11 @@
+
+path: tennis_data 
+
+train: images/test 
+val: images/test
+test: images/test   
+
+nc: 2             
+names:
+  0: player
+  1: ball
